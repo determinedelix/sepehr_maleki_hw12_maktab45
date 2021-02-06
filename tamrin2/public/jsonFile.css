@@ -1,0 +1,22 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* padding: 0 5px 0 5px; */
+    
+   
+}
+.head_background{
+    background-color: rgb(66, 62, 62);
+    color: white;
+    font-family: Arial;
+    padding: 0 15px 0 15px;
+    
+    
+}
+.zoj_boxes{
+    text-align: center;
+}
+.fard_boxes{
+    text-align: center;
+    background-color: rgb(221, 213, 213);
+}

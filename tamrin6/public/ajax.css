@@ -1,0 +1,41 @@
+*{
+    margin: 10px;
+}
+.container{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(50, 84, 235);
+    position: relative;
+    align-items: center;
+   
+}
+#result{
+    
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: white;
+    overflow: scroll;
+}
+#request{
+    display: block;
+    height: 100px;
+}
+#bin{
+    border: 2px solid black;
+    height: 20px;
+    width: 300px;
+    background-color: white;
+
+    white-space: nowrap;
+
+}
+#statu1{
+    border: 2px solid black;
+    background-color: white;
+}
+#error{
+    color: rgb(199, 0, 0);
+}   
